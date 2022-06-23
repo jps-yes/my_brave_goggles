@@ -18,7 +18,7 @@ $boost=3,site=wikipedia.org
 $boost=3,site=stackoverflow.com
 $boost=3,site=stackexchange.com
 $boost=3,site=.edu
-$boost=3,lite.cnn.com
+$boost=3,site=lite.cnn.com
 $boost=2,site=reddit.com
 
 ! boost hackernews websites 
