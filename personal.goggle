@@ -1,4 +1,4 @@
-! name: PERSONAL    
+! name: personal    
 ! description: personal goggle
 ! public: false
 ! author: João Silva 
@@ -9,7 +9,7 @@
 
 ! boost favorites
 /r/portugal/$boost=4
-/r/georgism/$boost=4
+/r/georgism/$boost=kl
 /r/zappa/$boost=3
 $boost=3,site=wiki.killuglyradio.com
 $boost=3,site=fivethirtyeight.com
