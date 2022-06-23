@@ -8,9 +8,9 @@
 ! NOTE: a boosting rule will always take precedence over a downrank.
 
 ! boost favorites
-/r/portugal/$boost=4,site=reddit.com
-/r/georgism/$boost=4,site=reddit.com
-/r/zappa/$boost=3,site=reddit.com
+/r/portugal/$boost=4
+/r/georgism/$boost=4
+/r/zappa/$boost=3
 $boost=3,site=wiki.killuglyradio.com
 $boost=3,site=fivethirtyeight.com
 $boost=3,site=csmonitor.com
