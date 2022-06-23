@@ -2,7 +2,7 @@
 ! description: Boosts/Downranks news sources according to mediabiasfactcheck.com categories (as of 23 June 2022). Least biased +3, right bias -2, left bias -2, right-center bias 0, left-center bias 0, pseudosciece -1, pro-science +1, satire 0
 ! public: true
 ! author: João Silva 
-! avatar: #FF7F7F
+! avatar: #FFFFFF
 ! homepage: https://github.com/jps-yes/my_brave_goggles
 
 ! WEIGHTS
