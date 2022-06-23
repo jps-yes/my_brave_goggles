@@ -832,7 +832,6 @@ $boost=3,site=13newsnow.com
 $boost=3,site=12NewsNow.com
 $boost=3,site=11alive.com
 
-
 ! Left or Right bias
 $downrank=2,site=abort73.com
 $downrank=2,site=a1apac.org
@@ -1514,11 +1513,11 @@ $boost=1,site=SciTechDaily.com
 $boost=1,site=scienceillustrated.com.au
 $boost=1,site=sciencefeedback.co
 $boost=1,site=scienceblogs.com
-$boost=1,site=science.org/journal/stm
-$boost=1,site=science.org/journal/signaling
-$boost=1,site=science.org/journal/scirobotics
-$boost=1,site=science.org/journal/sciimmunol
-$boost=1,site=science.org/journal/sciadv
+/journal/stm/$boost=1,site=science.org
+/journal/signaling/$boost=1,site=science.org
+/journal/scirobotics/$boost=1,site=science.org
+/journal/sciimmunol/$boost=1,site=science.org
+/journal/sciadv/$boost=1,site=science.org
 $boost=1,site=science.org
 $boost=1,site=science.energy.gov
 $boost=1,site=retractionwatch.com
@@ -1821,7 +1820,7 @@ $downrank=1,site=howtogeek.com
 $downrank=1,site=hjnews.com
 $downrank=1,site=heraldnews.com
 $downrank=1,site=dentonrc.com
-$downrank=1,site=c-span.org/series/?washingtonJournal
+/series/?washingtonJournal/$downrank=1,site=c-span.org
 $downrank=1,site=bozemandailychronicle.com
 $downrank=1,site=stardem.com
 $downrank=1,site=daily-journal.com
@@ -1925,4 +1924,3 @@ $downrank=1,site=mlive.com
 $downrank=1,site=eagletribune.com
 $downrank=1,site=herald-dispatch.com
 $downrank=1,site=hastingstribune.com
-
