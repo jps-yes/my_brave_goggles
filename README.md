@@ -1,2 +1,2 @@
-# my_brave_goggles
+# My Brave Search Goggles
 Customization file for brave search engine
