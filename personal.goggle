@@ -8,17 +8,17 @@
 ! NOTE: a boosting rule will always take precedence over a downrank.
 
 ! boost favorites
-/r/portugal/$boost=4,site:reddit.com
-/r/georgism/$boost=4,site:reddit.com
-/r/zappa/$boost=3,site:reddit.com
-$boost=3,site:wiki.killuglyradio.com
-$boost=3,site:fivethirtyeight.com
-$boost=3,site:csmonitor.com
-$boost=3,site:wikipedia.org
-$boost=3,site:stackoverflow.com
-$boost=3,site:stackexchange.com
-$boost=3,site:.edu
-$boost=2,site:reddit.com
+/r/portugal/$boost=4,site=reddit.com
+/r/georgism/$boost=4,site=reddit.com
+/r/zappa/$boost=3,site=reddit.com
+$boost=3,site=wiki.killuglyradio.com
+$boost=3,site=fivethirtyeight.com
+$boost=3,site=csmonitor.com
+$boost=3,site=wikipedia.org
+$boost=3,site=stackoverflow.com
+$boost=3,site=stackexchange.com
+$boost=3,site=.edu
+$boost=2,site=reddit.com
 
 ! boost hackernews websites 
 $boost=3,site=blog.samaltman.com
