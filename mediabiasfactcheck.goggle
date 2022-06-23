@@ -25,7 +25,7 @@ $boost=3,site=themonitor.com
 $boost=3,site=mlive.com
 $boost=3,site=heraldnews.com
 $boost=3,site=daily-journal.com
-$boost=3,site=c-span.org/series/?washingtonJournal
+series/?washingtonJournal/$boost=3,site=c-span.org/series/?washingtonJournal
 $boost=3,site=winonadailynews.com
 $boost=3,site=armytimes.com
 $boost=3,site=airforcetimes.com
@@ -55,10 +55,10 @@ $boost=3,site=eagletribune.com
 $boost=3,site=herald-dispatch.com
 $boost=3,site=hastingstribune.com
 $boost=3,site=zdnet.com
-$boost=3,site=yoursun.com/venice
-$boost=3,site=yoursun.com/puntagorda
-$boost=3,site=yoursun.com/northport
-$boost=3,site=yoursun.com/englewood
+venice/$boost=3,site=yoursun.com/venice
+puntagorda/$boost=3,site=yoursun.com/puntagorda
+northport/$boost=3,site=yoursun.com/northport
+englewood/$boost=3,site=yoursun.com/englewood
 $boost=3,site=yoursun.com
 $boost=3,site=yourcentralvelley.com
 $boost=3,site=yourcentralvalley.com
@@ -387,7 +387,7 @@ $boost=3,site=toronto.citynews.ca
 $boost=3,site=timesrepublican.com
 $boost=3,site=timesofsandiego.com
 $boost=3,site=timesfreepress.com
-$boost=3,site=theunion.com/News/TWI
+News/TWI/$boost=3,site=theunion.com/News/TWI
 $boost=3,site=theunion.com
 $boost=3,site=thetowntalk.com
 $boost=3,site=thetandd.com
@@ -417,7 +417,7 @@ $boost=3,site=starherald.com
 $boost=3,site=spotlightpa.org
 $boost=3,site=spectrumreport.com
 $boost=3,site=spectrumnews1.com
-$boost=3,site=spectrumlocalnews.com/splash
+splash/$boost=3,site=spectrumlocalnews.com/splash
 $boost=3,site=sociable.co
 $boost=3,site=skyhinews.com
 $boost=3,site=siouxcityjournal.com
@@ -435,7 +435,7 @@ $boost=3,site=rocanews.com
 $boost=3,site=roanoke.com
 $boost=3,site=riverdalepress.com
 $boost=3,site=RiverBender.com
-$boost=3,site=rfi.fr/en
+en/$boost=3,site=rfi.fr/en
 $boost=3,site=rexburgstandardjournal.com
 $boost=3,site=reporterslab.org
 $boost=3,site=reporterherald.com
@@ -452,9 +452,9 @@ $boost=3,site=punchbowl.news
 $boost=3,site=prnewswire.mediaroom.com
 $boost=3,site=pressofatlanticcity.com
 $boost=3,site=poststar.com
-$boost=3,site=postregister.com/star
+star/$boost=3,site=postregister.com/star
 $boost=3,site=postregister.com
-$boost=3,site=postregiser.com/messenger
+messenger/$boost=3,site=postregiser.com/messenger
 $boost=3,site=postindependent.com
 $boost=3,site=politicalwire.com
 $boost=3,site=placesjournal.org
@@ -491,7 +491,7 @@ $boost=3,site=newsandnews.com
 $boost=3,site=newsadvance.com
 $boost=3,site=news9.com
 $boost=3,site=news5cleveland.com
-$boost=3,site=news10.com/fox-23
+fox-23/$boost=3,site=news10.com/fox-23
 $boost=3,site=news10.com
 $boost=3,site=news.sky.com
 $boost=3,site=news.harvard.edu
@@ -784,7 +784,7 @@ $boost=3,site=auburnpub.com
 $boost=3,site=auburnpub.com
 $boost=3,site=atlasobscura.com
 $boost=3,site=athensmessenger.com
-$boost=3,site=aspentimes.com/snowmass
+snowmass/$boost=3,site=aspentimes.com/snowmass
 $boost=3,site=aspentimes.com
 $boost=3,site=arstechnica.com
 $boost=3,site=arklatexhomepage.com
