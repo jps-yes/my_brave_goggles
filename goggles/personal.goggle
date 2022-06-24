@@ -8,24 +8,31 @@
 ! NOTE: a boosting rule will always take precedence over a downrank.
 
 ! boost favorites
-/r/portugal/$boost=6
-/r/georgism/$boost=6
+/r/portugal/$boost=5
+/r/georgism/$boost=5
 $boost=4,site=news.ycombinator.com
-/r/zappa/$boost=3
 $boost=3,site=wiki.killuglyradio.com
 $boost=3,site=fivethirtyeight.com
 $boost=3,site=lite.cnn.com
-$boost=2,site=reddit.com
+$boost=3,site=reddit.com
+$boost=3,site=github.io
+$boost=3,site=github.com
 
 ! programming / math / tecnical search
 $boost=3,site=readthedocs.io
 $boost=3,site=stackoverflow.com
 $boost=3,site=stackexchange.com
 $boost=3,site=wikipedia.org
-$boost=3,site=edu
 $boost=3,site=python.org
 $boost=3,site=pypi.org
+$boost=3,site=edu
 
+! top level domain based boosting (boosting cheaper top level domains)
+$boost=2,site=online
+$boost=2,site=top
+$boost=2,site=xyz
+$boost=2,site=tech
+$boost=2,site=eu
 
 ! boost hackernews websites 
 $boost=2,site=blog.samaltman.com
