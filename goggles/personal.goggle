@@ -1,4 +1,4 @@
-! name: personal    
+! name: personal 
 ! description: personal goggle
 ! public: false
 ! author: João Silva 
@@ -7,6 +7,7 @@
 
 ! NOTE: a boosting rule will always take precedence over a downrank.
 
+! ----------------------- PERSONAL PREFERENCES
 ! boost favorites
 /r/portugal/$boost=5
 /r/georgism/$boost=5
@@ -26,14 +27,26 @@ $boost=3,site=wikipedia.org
 $boost=3,site=python.org
 $boost=3,site=pypi.org
 $boost=3,site=edu
+$boost=3,site=doi.org
 
-! top level domain based boosting (boosting cheaper top level domains)
-$boost=2,site=online
-$boost=2,site=top
-$boost=2,site=xyz
-$boost=2,site=tech
-$boost=2,site=eu
+! top level domain based boosting (boosting cheaper top level domains) - bellow $2.50 - 3 year maintenence (according to https://tld-list.com/)
+$boost=3,site=online
+$boost=3,site=top
+$boost=3,site=xyz
+$boost=3,site=tech
+$boost=3,site=eu
+$boost=3,site=space
+$boost=3,site=site
+$boost=3,site=store
+$boost=3,site=website
+$boost=3,site=bar
+$boost=3,site=click
+$boost=3,site=buzz
+$boost=3,site=monster
+$boost=3,site=cam
+$boost=3,site=cyou
 
+! ----------------------------------------------------------------------------------------------------
 ! boost hackernews websites 
 $boost=2,site=blog.samaltman.com
 $boost=2,site=paulgraham.com
