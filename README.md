@@ -12,7 +12,7 @@ Boosts/Downranks news sources according to mediabiasfactcheck.com categories (as
 [left-center bias](https://mediabiasfactcheck.com/leftcenter/) | 0  |
 [left bias](https://mediabiasfactcheck.com/left/) | -2  |
 [conspiracy-pseudoscience](https://mediabiasfactcheck.com/conspiracy/) | -1 |
-[pro-science](https://mediabiasfactcheck.com/pro-science/) | 1 | 
+[pro-science](https://mediabiasfactcheck.com/pro-science/) | +1 | 
 [satire](https://mediabiasfactcheck.com/satire/) | 0  |
 
 The weights are lower for science/pseudoscience categories because the focus of this goggle is on news sources, not science.

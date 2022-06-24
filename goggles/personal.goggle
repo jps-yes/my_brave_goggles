@@ -27,7 +27,6 @@ $boost=3,site=python.org
 $boost=3,site=pypi.org
 
 
-
 ! boost hackernews websites 
 $boost=2,site=blog.samaltman.com
 $boost=2,site=paulgraham.com
