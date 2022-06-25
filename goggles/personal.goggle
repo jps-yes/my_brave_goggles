@@ -23,6 +23,7 @@ $boost=4,site=pt
 $downrate=1,site=br
 
 ! programming / math / tecnical search
+$boost=8,site=doi.org
 $boost=3,site=readthedocs.io
 $boost=3,site=stackoverflow.com
 $boost=3,site=stackexchange.com
@@ -30,7 +31,6 @@ $boost=3,site=wikipedia.org
 $boost=3,site=python.org
 $boost=3,site=pypi.org
 $boost=3,site=edu
-$boost=3,site=doi.org
 
 ! top level domain based boosting (boosting cheaper top level domains) - bellow $2.50 - 3 year maintenence (according to https://tld-list.com/)
 $boost=3,site=online
