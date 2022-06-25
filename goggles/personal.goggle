@@ -20,7 +20,7 @@ $boost=3,site=github.io
 $boost=3,site=github.com
 
 $boost=4,site=pt
-$downrate=1,site=br
+$downrank=1,site=br
 
 ! programming / math / tecnical search
 $boost=8,site=doi.org
