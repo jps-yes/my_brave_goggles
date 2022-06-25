@@ -24,6 +24,7 @@ $downrate=1,site=br
 
 ! programming / math / tecnical search
 $boost=8,site=doi.org
+$boost=5,site=arxiv.org
 $boost=3,site=readthedocs.io
 $boost=3,site=stackoverflow.com
 $boost=3,site=stackexchange.com
