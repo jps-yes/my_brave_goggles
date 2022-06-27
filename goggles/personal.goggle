@@ -22,9 +22,10 @@ $boost=3,site=github.com
 $boost=4,site=pt
 $downrank=1,site=br
 
-! programming / math / tecnical search
+! programming / math / tech / technical search
 $boost=8,site=doi.org
 $boost=5,site=arxiv.org
+*breaches*$boost=5,site=upguard.com
 $boost=3,site=readthedocs.io
 $boost=3,site=stackoverflow.com
 $boost=3,site=stackexchange.com
@@ -427,7 +428,6 @@ $boost=2,site=boringtechnology.club
 $boost=2,site=swombat.com
 $boost=2,site=berthub.eu
 $boost=2,site=erikbern.com
-$boost=2,site=theregister.com
 $boost=2,site=learnpythonthehardway.org
 $boost=2,site=dynomight.net
 $boost=2,site=danshipper.com
@@ -799,7 +799,6 @@ $boost=2,site=mattwarren.org
 $boost=2,site=reason.com
 $boost=2,site=ramiro.org
 $boost=2,site=nsa.gov
-$boost=2,site=japantimes.co.jp
 $boost=2,site=twitlonger.com
 $boost=2,site=humblebundle.com
 $boost=2,site=publicdomainreview.org
@@ -1085,7 +1084,6 @@ $boost=2,site=keepassxc.org
 $boost=2,site=thepiratebay.se
 $boost=2,site=metatalk.metafilter.com
 $boost=2,site=gregable.com
-$boost=2,site=newrepublic.com
 $boost=2,site=cryptome.org
 $boost=2,site=smashcompany.com
 $boost=2,site=mixergy.com
@@ -1127,7 +1125,6 @@ $boost=2,site=libcom.org
 $boost=2,site=pudding.cool
 $boost=2,site=geek.com
 $boost=2,site=zedshaw.com
-$boost=2,site=techspot.com
 $boost=2,site=popularmechanics.com
 $boost=2,site=acesounderglass.com
 $boost=2,site=stitcher.io
@@ -1779,7 +1776,6 @@ $boost=2,site=cirw.in
 $boost=2,site=corner.squareup.com
 $boost=2,site=flightfox.com
 $boost=2,site=tip.golang.org
-$boost=2,site=nzherald.co.nz
 $boost=2,site=wezm.net
 $boost=2,site=crontab.guru
 $boost=2,site=degoes.net
@@ -2779,7 +2775,6 @@ $boost=1,site=producthabits.com
 $boost=1,site=fourhourworkweek.com
 $boost=1,site=refer.ly
 $boost=1,site=aei.org
-$boost=1,site=mentalfloss.com
 $boost=1,site=izbicki.me
 $boost=1,site=mathiasbynens.be
 $boost=1,site=pcjs.org
@@ -3206,7 +3201,6 @@ $boost=1,site=releases.llvm.org
 $boost=1,site=blog.npmjs.org
 $boost=1,site=nothings.org
 $boost=1,site=minecraft.net
-$boost=1,site=nber.org
 $boost=1,site=docs.keydb.dev
 $boost=1,site=startuplessonslearned.com
 $boost=1,site=rtpg.co
@@ -3483,7 +3477,6 @@ $boost=1,site=blog.robenkleene.com
 $boost=1,site=mako.cc
 $boost=1,site=blog.frontapp.com
 $boost=1,site=virtuallyfun.com
-$boost=1,site=csmonitor.com
 $boost=1,site=nintendo.co.uk
 $boost=1,site=codon.com
 $boost=1,site=sixthtone.com
@@ -6029,7 +6022,6 @@ $boost=1,site=myce.com
 $boost=1,site=progressiveapp.store
 $boost=1,site=teamblog.supportbee.com
 $boost=1,site=strangelyconsistent.org
-$boost=1,site=themarysue.com
 $boost=1,site=attendly.com
 $boost=1,site=snell-pym.org.uk
 $boost=1,site=influxdb.com
@@ -6447,7 +6439,6 @@ $downrank=1,site=researchgate.net
 $downrank=1,site=roblox.com
 $downrank=1,site=telegram.org
 $downrank=1,site=flipkart.com
-$downrank=1,site=reuters.com
 $downrank=1,site=washingtonpost.com
 $downrank=1,site=xnxx.com
 $downrank=1,site=oracle.com
@@ -6550,7 +6541,6 @@ $downrank=1,site=fincoad.com
 $downrank=1,site=usatoday.com
 $downrank=1,site=tiktokv.com
 $downrank=1,site=azureedge.net
-$downrank=1,site=cnet.com
 $downrank=1,site=akam.net
 $downrank=1,site=herokudns.com
 $downrank=1,site=wsdvs.com
@@ -6602,7 +6592,6 @@ $downrank=1,site=google.fr
 $downrank=1,site=criteo.com
 $downrank=1,site=scorecardresearch.com
 $downrank=1,site=gcdn.co
-$downrank=1,site=foxnews.com
 $downrank=1,site=zillow.com
 $downrank=1,site=scribd.com
 $downrank=1,site=avito.ru
@@ -6627,7 +6616,6 @@ $downrank=1,site=whatsapp.net
 $downrank=1,site=independent.co.uk
 $downrank=1,site=wildberries.ru
 $downrank=1,site=huawei.com
-$downrank=1,site=webmd.com
 $downrank=1,site=pixabay.com
 $downrank=1,site=incapdns.net
 $downrank=1,site=nstld.com
@@ -6643,7 +6631,6 @@ $downrank=1,site=xiaomi.com
 $downrank=1,site=mysql.com
 $downrank=1,site=digikala.com
 $downrank=1,site=squarespace.com
-$downrank=1,site=ft.com
 $downrank=1,site=amazon.ca
 $downrank=1,site=cpanel.com
 $downrank=1,site=douyin.com
@@ -6720,7 +6707,6 @@ $downrank=1,site=azure-dns.com
 $downrank=1,site=saasprotection.com
 $downrank=1,site=nicovideo.jp
 $downrank=1,site=tistory.com
-$downrank=1,site=britannica.com
 $downrank=1,site=cbsnews.com
 $downrank=1,site=no-ip.com
 $downrank=1,site=android.com
@@ -6928,12 +6914,10 @@ $downrank=1,site=google.com.tr
 $downrank=1,site=ameblo.jp
 $downrank=1,site=cricbuzz.com
 $downrank=1,site=figma.com
-$downrank=1,site=zdnet.com
 $downrank=1,site=imgsmail.ru
 $downrank=1,site=tinkoff.ru
 $downrank=1,site=nhentai.net
 $downrank=1,site=c-msedge.net
-$downrank=1,site=mashable.com
 $downrank=1,site=smallpdf.com
 $downrank=1,site=shaparak.ir
 $downrank=1,site=hdfcbank.com
@@ -6966,7 +6950,6 @@ $downrank=1,site=cogentco.com
 $downrank=1,site=rayjump.com
 $downrank=1,site=google.co.th
 $downrank=1,site=ortb.net
-$downrank=1,site=theconversation.com
 $downrank=1,site=feedburner.com
 $downrank=1,site=google.it
 $downrank=1,site=getpocket.com
@@ -7031,7 +7014,6 @@ $downrank=1,site=ebay.co.uk
 $downrank=1,site=kakao.com
 $downrank=1,site=meetup.com
 $downrank=1,site=avito.st
-$downrank=1,site=thesun.co.uk
 $downrank=1,site=as.com
 $downrank=1,site=agkn.com
 $downrank=1,site=vtb.ru
@@ -8762,7 +8744,6 @@ $downrank=2,site=brownstone.org
 $downrank=2,site=boundingintocomics.com
 $downrank=2,site=bostonreview.net
 $downrank=2,site=boldprogressives.org
-$downrank=2,site=boingboing.net
 $downrank=2,site=bluelivesmatter.blue
 $downrank=2,site=blackmainstreet.net
 $downrank=2,site=blacklivesmatter.com
@@ -8854,7 +8835,6 @@ $boost=1,site=nih.gov
 $boost=1,site=nextbigfuture.com
 $boost=1,site=newscientist.com
 $boost=1,site=ncdc.noaa.gov
-$boost=1,site=ncbi.nlm.nih.gov
 $boost=1,site=nature.com
 $boost=1,site=nationalgeographic.com
 $boost=1,site=nasa.gov
@@ -9192,7 +9172,6 @@ $downrank=1,site=icr.org
 $downrank=1,site=iceagenow.info
 $downrank=1,site=humansarefree.com
 $downrank=1,site=worldaffairsbrief.com
-$downrank=1,site=theregister.com
 $downrank=1,site=telegram.com
 $downrank=1,site=swtimes.com
 $downrank=1,site=statista.com
