@@ -18,6 +18,7 @@ $boost=3,site=lite.cnn.com
 $boost=3,site=reddit.com
 $boost=3,site=github.io
 $boost=3,site=github.com
+$boost=3,site=blogspot.com
 
 $boost=4,site=pt
 $downrank=1,site=br
@@ -34,22 +35,31 @@ $boost=3,site=python.org
 $boost=3,site=pypi.org
 $boost=3,site=edu
 
-! top level domain based boosting (boosting cheaper top level domains) - bellow $2.50 - 3 year maintenence (according to https://tld-list.com/)
-$boost=3,site=online
-$boost=3,site=top
-$boost=3,site=xyz
-$boost=3,site=tech
-$boost=3,site=eu
-$boost=3,site=space
-$boost=3,site=site
-$boost=3,site=store
+! top level domain based boosting (boosting cheaper top level domains)
+! according to https://tld-list.com/
+! top 15 under $2.5
+$boost=5,site=xyz
+$boost=5,site=top
+$boost=5,site=eu
+$boost=5,site=online
+$boost=5,site=tech
+$boost=4,site=site
+$boost=4,site=space
+$boost=4,site=store
+$boost=4,site=cloud
 $boost=3,site=website
-$boost=3,site=bar
 $boost=3,site=click
+$boost=3,site=bar
+$boost=3,site=fun
 $boost=3,site=buzz
 $boost=3,site=monster
-$boost=3,site=cam
-$boost=3,site=cyou
+
+! top 5 over $2.5, under $5
+$boost=3,site=info
+$boost=3,site=pro
+$boost=3,site=download
+$boost=3,site=shop
+$boost=3,site=live
 
 ! ----------------------------------------------------------------------------------------------------
 ! boost hackernews websites 
@@ -168,7 +178,6 @@ $boost=2,site=aclu.org
 $boost=2,site=robertheaton.com
 $boost=2,site=justice.gov
 $boost=2,site=startupclass.samaltman.com
-$boost=2,site=atlasobscura.com
 $boost=2,site=wozniak.ca
 $boost=2,site=shkspr.mobi
 $boost=2,site=wikileaks.org
@@ -4814,7 +4823,6 @@ $boost=1,site=addedbytes.com
 $boost=1,site=theconversation.edu.au
 $boost=1,site=carwoo.com
 $boost=1,site=swiftbysundell.com
-$boost=1,site=bigthink.com
 $boost=1,site=nltk.org
 $boost=1,site=atlas.cern
 $boost=1,site=nyse.com
@@ -6766,7 +6774,6 @@ $downrank=1,site=miui.com
 $downrank=1,site=avast.com
 $downrank=1,site=jimdo.com
 $downrank=1,site=arnebrachhold.de
-$downrank=1,site=mayoclinic.org
 $downrank=1,site=hbr.org
 $downrank=1,site=messenger.com
 $downrank=1,site=nga.cn
@@ -7028,7 +7035,6 @@ $downrank=1,site=attn.tv
 $downrank=1,site=gizmodo.com
 $downrank=1,site=mckinsey.com
 $downrank=1,site=spiegel.de
-$downrank=1,site=jstor.org
 $downrank=1,site=adsafeprotected.com
 $downrank=1,site=apa.org
 $downrank=1,site=online-metrix.net
@@ -7182,7 +7188,6 @@ $downrank=1,site=onet.pl
 $downrank=1,site=emailvision.net
 $downrank=1,site=360yield.com
 $downrank=1,site=ucoz.ru
-$downrank=1,site=thelancet.com
 $downrank=1,site=cdn20.com
 $downrank=1,site=op.gg
 $downrank=1,site=bizjournals.com
@@ -8801,7 +8806,6 @@ $boost=1,site=webmd.com
 $boost=1,site=verywell.com
 $boost=1,site=universetoday.com
 $boost=1,site=the-scientist.com
-$boost=1,site=technologyreview.com
 $boost=1,site=space.com
 $boost=1,site=societyforscience.org
 $boost=1,site=smithsonianmag.com
@@ -8821,11 +8825,9 @@ $boost=1,site=scicentral.com
 $boost=1,site=researchgate.net
 $boost=1,site=realclimate.org
 $boost=1,site=realclearscience.com
-$boost=1,site=quantamagazine.org
 $boost=1,site=quackwatch.org
 $boost=1,site=psypost.org
 $boost=1,site=psychologytoday.com
-$boost=1,site=popularmechanics.com
 $boost=1,site=popsci.com
 $boost=1,site=pnas.org
 $boost=1,site=plos.org
@@ -8872,7 +8874,6 @@ $boost=1,site=thelancet.com
 $boost=1,site=techxplore.com
 $boost=1,site=skeptoid.com
 $boost=1,site=skepticalscience.com
-$boost=1,site=singularityhub.com
 $boost=1,site=scripps.ucsd.edu
 $boost=1,site=SciTechDaily.com
 $boost=1,site=scienceillustrated.com.au
@@ -8883,7 +8884,6 @@ $boost=1,site=scienceblogs.com
 /journal/scirobotics/$boost=1,site=science.org
 /journal/sciimmunol/$boost=1,site=science.org
 /journal/sciadv/$boost=1,site=science.org
-$boost=1,site=science.org
 $boost=1,site=science.energy.gov
 $boost=1,site=retractionwatch.com
 $boost=1,site=resourcewatch.org
@@ -8894,7 +8894,6 @@ $boost=1,site=oceana.org
 $boost=1,site=nextobserver.com
 $boost=1,site=News-Medical.net
 $boost=1,site=newhumanist.org.uk
-$boost=1,site=newatlas.com
 $boost=1,site=neurosciencenews.com
 $boost=1,site=nejm.org
 $boost=1,site=nautil.us
