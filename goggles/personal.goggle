@@ -11,6 +11,7 @@
 ! boost favorites
 /r/portugal/$boost=8
 /r/georgism/$boost=8
+$boost=4,site=substack.com
 $boost=4,site=news.ycombinator.com
 $boost=4,site=wiki.killuglyradio.com
 $boost=4,site=fivethirtyeight.com
@@ -6532,7 +6533,6 @@ $downrank=1,site=cnki.net
 $downrank=1,site=gnu.org
 $downrank=1,site=app-measurement.com
 $downrank=1,site=mega.nz
-$downrank=1,site=doi.org
 $downrank=1,site=db.com
 $downrank=1,site=fiverr.com
 $downrank=1,site=line.me
@@ -8889,7 +8889,6 @@ $boost=1,site=retractionwatch.com
 $boost=1,site=resourcewatch.org
 $boost=1,site=public.wmo.int
 $boost=1,site=psychcentral.com
-$boost=1,site=phys.org
 $boost=1,site=oceana.org
 $boost=1,site=nextobserver.com
 $boost=1,site=News-Medical.net
