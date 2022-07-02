@@ -565,7 +565,6 @@ $boost=2,site=theunderstatement.com
 $boost=2,site=donmelton.com
 $boost=2,site=learncodethehardway.org
 $boost=2,site=element.io
-$boost=2,site=thehill.com
 $boost=2,site=wattenberger.com
 $boost=2,site=raganwald.com
 $boost=2,site=danshapiro.com
@@ -1390,7 +1389,6 @@ $boost=2,site=joindiaspora.com
 $boost=2,site=chadfowler.com
 $boost=2,site=git.sr.ht
 $boost=2,site=science.org
-$boost=2,site=esquire.com
 $boost=2,site=augustl.com
 $boost=2,site=paulrouget.com
 $boost=2,site=joelgrus.com
@@ -7039,7 +7037,6 @@ $downrank=1,site=adsafeprotected.com
 $downrank=1,site=apa.org
 $downrank=1,site=online-metrix.net
 $downrank=1,site=eporner.com
-$downrank=1,site=inc.com
 $downrank=1,site=crashlytics.com
 $downrank=1,site=playstation.net
 $downrank=1,site=pconline.com.cn
@@ -8820,7 +8817,6 @@ $boost=1,site=sciencemediacentre.org
 $boost=1,site=sciencehistory.org
 $boost=1,site=sciencedaily.com
 $boost=1,site=sciencebasedmedicine.org
-$boost=1,site=sciencealert.com
 $boost=1,site=scicentral.com
 $boost=1,site=researchgate.net
 $boost=1,site=realclimate.org
