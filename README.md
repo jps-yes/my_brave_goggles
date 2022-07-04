@@ -22,7 +22,7 @@ Includes:
 - MediaBiasFactCheck goggle
 - HackerNews goggle
 - Penalization for top 1000 websites, with some exceptions:
-    -  vimeo, youtube, wikipedia, github, reddit, blogspot, wordpress, github.io, quora, w3.org, who.int, wikimedia.org, .gov sites, .edu sites, science journals, goodreads, stackexchange, coursera, elsevier, substack
+    -  vimeo, youtube, wikipedia, github, reddit, blogspot, wordpress, github.io, quora, w3.org, who.int, wikimedia.org, .gov sites, .edu sites, science journals, goodreads, stackexchange, coursera, elsevier, substack, etc
 - Some favorite websites
 
 NOTE: a boosting rule will always take precedence over a downrank.

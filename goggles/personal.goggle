@@ -23,6 +23,7 @@ $boost=3,site=blogspot.com
 
 $boost=4,site=pt
 $downrank=1,site=br
+$downrank=1,site=com.br
 
 ! programming / math / tech / technical search
 $boost=8,site=doi.org
@@ -792,7 +793,6 @@ $boost=2,site=blog.mecheye.net
 $boost=2,site=about.sourcegraph.com
 $boost=2,site=wi-fi.org
 $boost=2,site=4chan.org
-$boost=2,site=thedailybeast.com
 $boost=2,site=ipp.mpg.de
 $boost=2,site=arstechnica.co.uk
 $boost=2,site=news.railstutorial.org
@@ -1888,7 +1888,6 @@ $boost=2,site=postgres.heroku.com
 $boost=2,site=upguard.com
 $boost=2,site=panix.com
 $boost=2,site=arangodb.com
-$boost=2,site=ctvnews.ca
 $boost=2,site=tips.ariyh.com
 $boost=2,site=henrikwarne.com
 $boost=2,site=sorbet.org
@@ -6386,7 +6385,6 @@ $downrank=1,site=naver.com
 $downrank=1,site=lencr.org
 $downrank=1,site=icloud.com
 $downrank=1,site=t-msedge.net
-$downrank=1,site=cnn.com
 $downrank=1,site=myfritz.net
 $downrank=1,site=soundcloud.com
 $downrank=1,site=outlook.com
@@ -6958,7 +6956,6 @@ $downrank=1,site=ortb.net
 $downrank=1,site=feedburner.com
 $downrank=1,site=google.it
 $downrank=1,site=getpocket.com
-$downrank=1,site=newyorker.com
 $downrank=1,site=ttlivecdn.com
 $downrank=1,site=zerodha.com
 $downrank=1,site=zhibo8.cc
@@ -7178,7 +7175,6 @@ $downrank=1,site=braze.com
 $downrank=1,site=indiegogo.com
 $downrank=1,site=news.com.au
 $downrank=1,site=quillbot.com
-$downrank=1,site=slate.com
 $downrank=1,site=indiamart.com
 $downrank=1,site=arstechnica.com
 $downrank=1,site=onet.pl
