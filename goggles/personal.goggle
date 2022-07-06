@@ -12,7 +12,7 @@
 /r/portugal/$boost=8
 /r/georgism/$boost=8
 $boost=4,site=substack.com
-$boost=4,site=news.ycombinator.com
+$boost=4,site=ycombinator.com
 $boost=4,site=wiki.killuglyradio.com
 $boost=4,site=fivethirtyeight.com
 $boost=3,site=lite.cnn.com
@@ -68,7 +68,6 @@ $boost=3,site=live
 $boost=2,site=blog.samaltman.com
 $boost=2,site=paulgraham.com
 $boost=2,site=blog.rust-lang.org
-$boost=2,site=blog.ycombinator.com
 $boost=2,site=ciechanow.ski
 $boost=2,site=danluu.com
 $boost=2,site=kalzumeus.com
@@ -853,7 +852,6 @@ $boost=2,site=locusmag.com
 $boost=2,site=bloombergview.com
 $boost=2,site=damninteresting.com
 $boost=2,site=joeyh.name
-$boost=2,site=newstatesman.com
 $boost=2,site=freebsd.org
 $boost=2,site=andregarzia.com
 $boost=2,site=caddyserver.com
@@ -1223,7 +1221,6 @@ $boost=2,site=blog.steveklabnik.com
 $boost=2,site=jgc.org
 $boost=2,site=maraoz.com
 $boost=2,site=somethingsimilar.com
-$boost=2,site=macro.ycombinator.com
 $boost=2,site=damienkatz.net
 $boost=2,site=moserware.com
 $boost=2,site=elastic.co
@@ -2366,7 +2363,6 @@ $boost=1,site=gurjeet.singh.im
 $boost=1,site=blog.mailgun.net
 $boost=1,site=harry.me
 $boost=1,site=archpaper.com
-$boost=1,site=news.ycombinator.com
 $boost=1,site=durmonski.com
 $boost=1,site=blog.zorinaq.com
 $boost=1,site=blog.peepcode.com
@@ -3358,7 +3354,6 @@ $boost=1,site=materialize.com
 $boost=1,site=teddziuba.com
 $boost=1,site=thelocal.de
 $boost=1,site=webaim.org
-$boost=1,site=firstthings.com
 $boost=1,site=yodaiken.com
 $boost=1,site=goodcheapandfast.com
 $boost=1,site=shirky.com
@@ -5434,7 +5429,6 @@ $boost=1,site=joachim-breitner.de
 $boost=1,site=o.canada.com
 $boost=1,site=michaelrbernste.in
 $boost=1,site=computerworlduk.com
-$boost=1,site=tech.newstatesman.com
 $boost=1,site=abc7chicago.com
 $boost=1,site=bytes.yingw787.com
 $boost=1,site=mikekarnj.com
@@ -6679,7 +6673,6 @@ $downrank=1,site=speedtest.net
 $downrank=1,site=amazonvideo.com
 $downrank=1,site=kickstarter.com
 $downrank=1,site=googletagservices.com
-$downrank=1,site=investopedia.com
 $downrank=1,site=rbxcdn.com
 $downrank=1,site=tandfonline.com
 $downrank=1,site=alibabadns.com
