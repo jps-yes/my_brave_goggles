@@ -9,6 +9,8 @@
 
 ! ----------------------- PERSONAL PREFERENCES
 ! boost favorites
+$boost=100,site=sci-hub.se
+$boost=100,site=sci-hub.tw
 /r/portugal/$boost=8
 /r/georgism/$boost=8
 $boost=4,site=substack.com
@@ -5818,7 +5820,6 @@ $boost=1,site=papercups.io
 $boost=1,site=deeplearning4j.org
 $boost=1,site=kaiostech.com
 $boost=1,site=kdab.com
-$boost=1,site=sci-hub.tw
 $boost=1,site=mobilecrunch.com
 $boost=1,site=blog.liangzan.net
 $boost=1,site=paulcavallaro.com
@@ -6434,7 +6435,6 @@ $downrank=1,site=akamaihd.net
 $downrank=1,site=youku.com
 $downrank=1,site=spankbang.com
 $downrank=1,site=wixsite.com
-$downrank=1,site=researchgate.net
 $downrank=1,site=roblox.com
 $downrank=1,site=telegram.org
 $downrank=1,site=flipkart.com
@@ -6954,7 +6954,6 @@ $downrank=1,site=zerodha.com
 $downrank=1,site=zhibo8.cc
 $downrank=1,site=discord.gg
 $downrank=1,site=apnews.com
-$downrank=1,site=plos.org
 $downrank=1,site=sharethrough.com
 $downrank=1,site=uber.com
 $downrank=1,site=elpais.com
@@ -8863,7 +8862,6 @@ $boost=1,site=scripps.ucsd.edu
 $boost=1,site=SciTechDaily.com
 $boost=1,site=scienceillustrated.com.au
 $boost=1,site=sciencefeedback.co
-$boost=1,site=scienceblogs.com
 /journal/stm/$boost=1,site=science.org
 /journal/signaling/$boost=1,site=science.org
 /journal/scirobotics/$boost=1,site=science.org
